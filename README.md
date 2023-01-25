@@ -20,13 +20,13 @@ Describir cómo se construyeN los transformador y cómo funcionan.
 
 2.-Marco Teórico:
 
-Capitulo 13 INDUCTORES
+Capitulo 15 CIRCUITOS RC
 
-Se analiza la construcción básica y las propiedades eléctricas de los inductores, así como los efectos de conectarlos en serie
-y en paralelo. Cómo funciona un inductor en circuitos de cd y de ca es una parte importante de esta cobertura y forma la base 
-para estudiar circuitos reactivos en función tanto de respuesta de frecuencia como de respuesta de tiempo.
+Un circuito RC contiene tanto resistencia como capa- citancia. En este capítulo, se presentan circuitos RC en serie y en paralelo 
+básicos, así como sus respuestas a voltajes sinusoidales de ca. También se analizan com- binaciones dispuestas en serie-paralelo. 
+Se estudian las potencias verdadera, reactiva y aparente en circui- tos RC y se introducen algunas aplicaciones básicas de circuitos RC.
 
-El inductor básico y Tipos de inductores
+PARTE 1: CIRCUITOS EN SERIE
 
 ![](https://github.com/phchalco/Tarea7/blob/main/J1.png)
 
