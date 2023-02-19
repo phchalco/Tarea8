@@ -8,8 +8,6 @@ Tema: Principios de Circuitos Eléctricos
 
 Analizar y describir las características básicas de los los circuitos RC Y RL.
 
-Describir cómo se construyeN los transformador y cómo funcionan.
-
 1.1-Objetivos Específicos:
 
 -Determinar la impedancia de un circuito RC en serie, analizar un circuito RC en serie.
