@@ -6,17 +6,17 @@ Tema: Principios de Circuitos Eléctricos
 
 1.-Objetivos Generales: 
 
-Analizar y describir las características básicas de los inductores.
+Analizar y describir las características básicas de los los circuitos RC Y RL.
 
 Describir cómo se construyeN los transformador y cómo funcionan.
 
 1.1-Objetivos Específicos:
 
--Reconocer los distintos tipos de inductores
+-Determinar la impedancia de un circuito RC en serie, analizar un circuito RC en serie.
 
--Analizar los circuitos inductivos de ca y cd
+-Describir la relación entre corriente y voltaje en un circuito RC en serie
 
--Describir cómo los transformadores incrementan y disminuyen el voltaje
+-Analizar circuitos RC en serie-paralelo
 
 2.-Marco Teórico:
 
@@ -145,9 +145,17 @@ https://www.youtube.com/watch?v=Nxr6F6N0ElM
 
 5.-Conclusiones:
 
--En virtud de lo argumentado, podemos concluir que el análisis de los transformadores en serie y paralelo son de mucha importancia en el área de circuitos eléctricos 
+-En virtud de lo argumentado, podemos concluir que los circuitos en serie y paralelo RC Y RL son de mucha importancia en el área de circuitos eléctricos 
 ya que estas se manipulan de distinta forma y su estudio abarca muchas más cosas.
 
--Finalmente, el tema de los inductores y como intervienen en las distintas corrientes ya sea ca o cd nos deja mucho enseñanza sobre como actuar en caso, de que nos toque su manipulación en los distintos circuitos que se presentan en la vida real.
+-Finalmente, el tema de los circuitos y como intervienen en las distintas corrientes ya sea de RC o RL nos deja mucho enseñanza sobre como actuar en caso, de que nos toque su manipulación en los distintos circuitos que se presentan en la vida real.
 
 6.-Bibliografía
+
+A. (2020, 7 febrero). Circuito RC paralelo en AC (corriente alterna). Electrónica Unicrom. https://unicrom.com/circuito-rc-paralelo-en-ac/
+
+J.L, B. (2021, 10 noviembre). ¿Qué es un Circuito RL: Funcionamiento y sus Usos. Electrónica Online. https://electronicaonline.net/electronica/circuito-rl-funcionamiento-usos/
+
+L. (2017, 17 septiembre). Aplicaciones circuitos Rc, RL, RLC. Apuntes - luisnav23. https://www.clubensayos.com/Tecnolog%C3%ADa/Aplicaciones-circuitos-Rc-RL-RLC/4137605.html
+
+(10.5 Circuitos RC - Física universitaria volumen 2 | OpenStax, s. f.)
