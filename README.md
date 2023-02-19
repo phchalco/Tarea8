@@ -1,6 +1,6 @@
 Principios de Circuitos Eléctricos
 
-Nombre: Pablo Chalco   NRC: 10067  Materia: F. de Circuitos Eléctricos   Fecha: 13/01/2023 
+Nombre: Pablo Chalco   NRC: 10067  Materia: F. de Circuitos Eléctricos   Fecha: 19/02/2023 
 
 Tema: Principios de Circuitos Eléctricos
 
@@ -28,65 +28,116 @@ Se estudian las potencias verdadera, reactiva y aparente en circui- tos RC y se 
 
 PARTE 1: CIRCUITOS EN SERIE
 
-![](https://github.com/phchalco/Tarea7/blob/main/J1.png)
+PARTE 2: CIRCUITOS EN PARALELO
 
-Inductores en serie y en paralelo, Inductores en circuitos de CD e Inductores en circuitos de CA
+![](https://github.com/phchalco/Tarea8/blob/main/V1.png)
 
-![](https://github.com/phchalco/Tarea7/blob/main/J2.png)
+PARTE 3: CIRCUITOS EN SERIE-PARALELO
+
+Los conceptos estudiados con respecto a circuitos dispuestos en serie-paralelo se utilizan para analizar circuitos que tienen combinaciones 
+de componentes R y C tanto en serie como en paralelo.
+
+![](https://github.com/phchalco/Tarea8/blob/main/V2.png)
 
 3.-EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
-![](https://github.com/phchalco/Tarea7/blob/main/A1.jpg)
 
-![](https://github.com/phchalco/Tarea7/blob/main/A2.jpg)
+![](https://github.com/phchalco/Tarea8/blob/main/G1.jpg)
 
-![](https://github.com/phchalco/Tarea7/blob/main/A3.jpg)
+![](https://github.com/phchalco/Tarea8/blob/main/G2.jpg)
 
-![](https://github.com/phchalco/Tarea7/blob/main/A4.jpg)
+![](https://github.com/phchalco/Tarea8/blob/main/G3.jpg)
 
-![](https://github.com/phchalco/Tarea7/blob/main/A5.jpg)
+![](https://github.com/phchalco/Tarea8/blob/main/G4.jpg)
 
-![](https://github.com/phchalco/Tarea7/blob/main/A6.jpg)
+![](https://github.com/phchalco/Tarea8/blob/main/G5.jpg)
 
-![](https://github.com/phchalco/Tarea7/blob/main/A7.jpg)
+![](https://github.com/phchalco/Tarea8/blob/main/G6.jpg)
 
-![](https://github.com/phchalco/Tarea7/blob/main/A8.jpg)
+![](https://github.com/phchalco/Tarea8/blob/main/G7.jpg)
 
-Capítulo 14
+![](https://github.com/phchalco/Tarea8/blob/main/G8.jpg)
 
-TRANSFORMADORES
+![](https://github.com/phchalco/Tarea8/blob/main/G9.jpg)
 
-En este capítulo, estudiará la inductancia mutua, que es la base para la operación de transformadores. Se utilizan transformadores 
-en todo tipo de aplicaciones tales como fuentes de potencia, distribución de potencia eléctrica, y acoplamiento deseñales en 
-sistemas de comunicaciones.
+![](https://github.com/phchalco/Tarea8/blob/main/G10.jpg)
 
-Inductancia mutua y El transformador básico
+![](https://github.com/phchalco/Tarea8/blob/main/G11.jpg)
 
-![](https://github.com/phchalco/Tarea7/blob/main/H1.png)
+![](https://github.com/phchalco/Tarea8/blob/main/G12.jpg)
 
-Transformadores elevadores y reductores, Carga del devanado secundario y Carga reflejada
+![](https://github.com/phchalco/Tarea8/blob/main/G13.jpg)
 
-![](https://github.com/phchalco/Tarea7/blob/main/H2.png)
+![](https://github.com/phchalco/Tarea8/blob/main/G14.jpg)
 
-Igualación de impedancia, Características de un transformador no ideal (transformador real)
+![](https://github.com/phchalco/Tarea8/blob/main/G15.jpg)
 
-![](https://github.com/phchalco/Tarea7/blob/main/H3.png)
+![](https://github.com/phchalco/Tarea8/blob/main/G16.jpg)
 
-Transformadores con tomas y devanados múltiples
+![](https://github.com/phchalco/Tarea8/blob/main/G17.jpg)
 
-![](https://github.com/phchalco/Tarea7/blob/main/H4.png)
+![](https://github.com/phchalco/Tarea8/blob/main/G18.jpg)
+
+![](https://github.com/phchalco/Tarea8/blob/main/G19.jpg)
+
+![](https://github.com/phchalco/Tarea8/blob/main/G20.jpg)
+
+![](https://github.com/phchalco/Tarea8/blob/main/G21.jpg)
+
+Capitulo 15 CIRCUITOS RL
+
+Un circuito RL contiene tanto resistencia como inductancia. En este capítulo, se presentan los circuitos RL básicos en serie y en paralelo 
+y sus respuestas a voltajes sinusoidales de ca. Se analizan combinaciones en serie-paralelo. Se introducen las potencias real, reactiva 
+y aparente en circuitos RL y algunas aplicaciones básicas de éstos. Las aplicaciones de circuitos RL incluyen filtros y reguladores de 
+conmutación.
+
+PARTE 1: CIRCUITOS EN SERIE
+
+De igual forma que en el circuito RC, en un circuito RL en serie todas las corrientes y todoslos voltajes son sinusoidales cuando el voltaje 
+de entrada es sinusoidal.
+
+PARTE 2: CIRCUITOS EN PARALELO
+
+![](https://github.com/phchalco/Tarea8/blob/main/V3.png)
+
+PARTE 3: CIRCUITOS EN SERIE-PARALELO
+
+Los conceptos estudiados con respecto a circuitos dispuestos en serie-paralelo se utilizan para analizar circuitos que tienen combinaciones 
+de componentes R y C tanto en serie como en paralelo.
+
+![](https://github.com/phchalco/Tarea8/blob/main/V4.png)
 
 3.1-EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
-![](https://github.com/phchalco/Tarea7/blob/main/B1.jpg)
+![](https://github.com/phchalco/Tarea8/blob/main/K1.jpg)
 
-![](https://github.com/phchalco/Tarea7/blob/main/B2.jpg)
+![](https://github.com/phchalco/Tarea8/blob/main/K2.jpg)
 
-![](https://github.com/phchalco/Tarea7/blob/main/B3.jpg)
+![](https://github.com/phchalco/Tarea8/blob/main/K3.jpg)
 
-![](https://github.com/phchalco/Tarea7/blob/main/B4.jpg)
+![](https://github.com/phchalco/Tarea8/blob/main/K4.jpg)
 
-![](https://github.com/phchalco/Tarea7/blob/main/B5.jpg)
+![](https://github.com/phchalco/Tarea8/blob/main/K5.jpg)
+
+![](https://github.com/phchalco/Tarea8/blob/main/K6.jpg)
+
+![](https://github.com/phchalco/Tarea8/blob/main/K7.jpg)
+
+![](https://github.com/phchalco/Tarea8/blob/main/K8.jpg)
+
+![](https://github.com/phchalco/Tarea8/blob/main/K9.jpg)
+
+![](https://github.com/phchalco/Tarea8/blob/main/K10.jpg)
+
+![](https://github.com/phchalco/Tarea8/blob/main/K11.jpg)
+
+![](https://github.com/phchalco/Tarea8/blob/main/K12.jpg)
+
+![](https://github.com/phchalco/Tarea8/blob/main/K13.jpg)
+
+![](https://github.com/phchalco/Tarea8/blob/main/K14.jpg)
+
+![](https://github.com/phchalco/Tarea8/blob/main/K15.jpg)
 
 4.-Video
 
